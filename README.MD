@@ -5,6 +5,10 @@ If you have any sweet tips you think belong on this list then submit a pull-requ
 #### Install midnight commander - sudo apt-get install mc.
 This will make traversing the filesystem much easier, and streamline a lot of workflow
 
+#### Command history
+Execute `history` to see your session's command history, and recall a command with `!<index>`
+eg. recall command number: 321 with `!321`
+
 #### Use nohup to run commands after you close an SSH session.
 If you access your Pi by SSH, and want to start up a process that takes a long time to run (like a large download or update) but you still want to be able to close the SSH session, preceed it with nohup, eg:
 `nohup sudo apt-get upgrade`
