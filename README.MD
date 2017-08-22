@@ -1,5 +1,6 @@
 # Linux tips for Pi NOOBS
 These are general linux tips that may make your Raspberry Pi experience more enjoyable, particularly if you use the terminal (or SSH) a lot.
+If you have any sweet tips you think belong on this list then submit a pull-request :D
 
 #### Install midnight commander - sudo apt-get install mc.
 This will make traversing the filesystem much easier, and streamline a lot of workflow
